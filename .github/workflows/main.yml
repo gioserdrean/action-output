@@ -18,7 +18,7 @@ jobs:
 
           - name: Gerando output usando Action gerador de senha 
             id: generatedpassword
-            uses: aammiramirza/RandomPasswordGenerator@v1.1
+            uses: aammirmirza/RandomPasswordGenerator@v1.1
             with:
               length: 15
 
